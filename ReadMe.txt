@@ -1,5 +1,5 @@
 
-AirLocate
+AirLocate V3
 =========
 
 AirLocate shows how to use CLLocationManager to monitor and range CLBeaconRegions.
@@ -54,6 +54,6 @@ ALRangingViewController
 
 - View controller ranges a set of known beacon regions.
 
-
+STARTING WITH SAMPLE - Change to SWIFT
 ===========================================================================
 Copyright (C) 2013 Apple Inc. All rights reserved.
